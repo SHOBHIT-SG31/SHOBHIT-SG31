@@ -163,6 +163,8 @@ Let’s learn and grow together!
   </picture>
 </div>
 
+<!--i dont want do anything -->
+
 <div align="center">
     <img src="https://profile-counter.glitch.me/SHOBHIT-SG31/count.svg" alt="Profile Views"> 
     <br>
