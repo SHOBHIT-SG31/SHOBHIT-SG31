@@ -17,7 +17,7 @@
 <img src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 - 🙋‍♂️ I’m **Shobhit Gupta**, a B.Tech student at GL Bajaj Institute, Mathura, specializing in **AI & ML**.
-- 🌱 Currently learning **Python**, **Java**, **Machine Learning**, and **Web Development**.
+- 🌱 Currently learning **Python**, **Machine Learning**, and **Web Development**.
 - 👯 Open to beginner-friendly collaborations, learning projects, and contributions.
 - 🎵 I'm also a **rap lyricist and music producer** – love mixing code with creativity!
 - 💬 Ask me anything about **CS fundamentals**, **AI basics**, or even rap writing 🎤.
