@@ -25,7 +25,7 @@
 
 ### 🌐 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shobhit-gupta-2bb985313)
+- 🔗 Linked: [LinkedIn](https://www.linkedin.com/in/shobhit-gupta-2bb985313)
 - 💼 GitHub: [SHOBHIT-SG31](https://github.com/SHOBHIT-SG31)
 
 <!--nothing to change -->
